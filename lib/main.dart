@@ -36,10 +36,10 @@ static const String projectSlogan = '用 GitHub 协作，把第14周个人 Hello
 /// 修改以下成员列表，改为第9组真实分工
 static const List<TeamMember> members = [
   TeamMember(role: '组长', name: '邓卓', task: '合并 PR、真机运行、创建仓库'),
-  TeamMember(role: '组员 A', name: 'N', task: '修改标题、口号和小组名'),
+  TeamMember(role: '组员 A', name: '车赵阳', task: '修改标题、口号和小组名'),
   TeamMember(role: '组员 B', name: '马敏楠', task: '补全成员信息与分工'),
-  TeamMember(role: '组员 C', name: '请填写姓名', task: '补充 Android 真机检查项'),
-  TeamMember(role: '组员 D', name: '请填写姓名', task: '补充证据规则、README 照片说明'),
+  TeamMember(role: '组员 C', name: '林世钒', task: '补充 Android 真机检查项'),
+  TeamMember(role: '组员 D', name: '谭正琪', task: '补充证据规则、README 照片说明'),
 ];
 /// ============================================
 
